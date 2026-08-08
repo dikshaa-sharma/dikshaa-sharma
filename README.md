@@ -1,4 +1,4 @@
-# Hi, I'm Diksha Sharma 👋
+# Hi, I'm Diksha Rani 👋
 
 BCA student at Chitkara University with an interest in software development and data analysis.
 
