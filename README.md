@@ -16,10 +16,10 @@ BCA student at Chitkara University with an interest in software development and 
 Python, Java
 
 **Data Analysis & Visualization:**
-Pandas, Matplotlib
+Pandas, Matplotlib, Seaborn, Numpy, Pandas, Power BI, MS Excel
 
 **Tools:**
-Microsoft Excel, Google Colab, Pentaho Data Integration, Weka
+Microsoft Excel, Google Colab, VS Code
 
 ### Currently Learning
 
